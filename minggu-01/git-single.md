@@ -1,7 +1,7 @@
 # 3 Latihan
 1. Instalasi Git
    Disini saya sudah mendownload editor teks yaitu notepad++ dan Visual Studio Code.
-   ![gambar01]({https://github.com/AnisaCahya/tekn-cloud-computing/blob/main/minggu-01/gambar01.png})
+   ![gambar01](https://user-images.githubusercontent.com/AnisaCahya/tekn-cloud-computing/blob/main/minggu-01/gambar01.png)
    Langkah selanjutnya yaitu download Git dan Install. Pilih aplikasi git yang sesuai dengan laptop, disini saya memilih yang 64 bit. Setelah di download, git di install. Sebelum diinstall pilih direktori penyimpanan git, kemudian pilih juga default editor untuk Git, jadi disini saya memilih “use visual studio code” sebagai editornya.
 2. Konfigurasi Git
    '''
